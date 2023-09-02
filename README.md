@@ -11,8 +11,7 @@ My name is Marina, I am a Junior QA engineer from Argentina (Buenos Aires).
 ⚡ In my free time, I learn SQL
 
 
-
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@kainermarina55-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kainermarina55/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kainermarina55@gmail.com)
+How to reach me: kainermarina55@gmail.com
 
 ---
 
@@ -79,7 +78,7 @@ My name is Marina, I am a Junior QA engineer from Argentina (Buenos Aires).
 
 ---
 
-<!-- ### 💻 Completed courses:
+### 💻 Completed courses:
 | Courses                                                           | Date            |
 | ----------------------------------------------------------------  | :---------------: |
 | QA from scratch by Artsiom Rusau (Udemy)                          | 04/2023 - 08/2023 |
