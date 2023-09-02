@@ -12,7 +12,7 @@ My name is Marina, I am a Junior QA engineer from Argentina (Buenos Aires).
 
 
 
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@kainermarina55-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kainermarina55/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto: kainermarina55@gmail.com)
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@kainermarina55-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kainermarina55/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kainermarina55@gmail.com)
 
 ---
 
