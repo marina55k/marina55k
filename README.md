@@ -30,7 +30,7 @@ How to reach me: kainermarina466@gmail.com
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://www.testrail.com/wp-content/uploads/2023/03/testrail_logo.png" title="testrail" alt="testrail" width="40" height="40"/>&nbsp
+  <img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/6rqb82o0vb9tmfdp32pxuj6m6jab" title="testrail" alt="testrail" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
